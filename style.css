@@ -12,3 +12,11 @@ p {
 .alert-text {
     color: red;
 }
+
+.warning-text {
+  color: hsl(15, 82%, 56%);
+  font-family: "Times New Roman", sans-serif;
+  font-size: 22px;
+  font-weight: 200;
+  text-align: left;
+}
